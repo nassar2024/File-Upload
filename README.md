@@ -27,7 +27,6 @@
 
 ## 📸 Screenshots
 
-> Add your actual screenshots here:
 - ![Excel Upload](screenshots/record.gif)
 - ![Dashboard](screenshots/image.png)
 ---
